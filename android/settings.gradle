@@ -1,0 +1,9 @@
+rootProject.name = 'News'
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fs/android')
+include ':react-native-actionsheet-native'
+project(':react-native-actionsheet-native').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-actionsheet-native/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+
+include ':app'
