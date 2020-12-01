@@ -4,7 +4,7 @@
 
 **About this project**: Create React Native news app for iOS and android platform using Contentstack React Native SDK.
 
-<img src='http://www.contentstack.com/docs/assets/blt26b1416f77748637/NativeScript_large.png' width='675' height='568'/>
+<img src='https://app.contentstack.com/v3/assets/blt23180bf2502c7444/blt6f21232125128a77/5d65162619dde42446548e2c/NativeScript_large.png' width='675' height='568'/>
 
 ## Tutorial
 
