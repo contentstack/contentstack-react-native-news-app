@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "base-64": "^0.1.0",
-    "utf8": "^2.1.1"
+    "utf8": "^3.0.0"
   },
   "description": "Native filesystem access for react-native",
   "devDependencies": {
