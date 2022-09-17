@@ -55,7 +55,7 @@
     "url": "https://github.com/johanneslumpe/react-native-fs/issues"
   },
   "dependencies": {
-    "base-64": "^0.1.0",
+    "base-64": "^1.0.0",
     "utf8": "^2.1.1"
   },
   "description": "Native filesystem access for react-native",
