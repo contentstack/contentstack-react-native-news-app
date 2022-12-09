@@ -1,6 +1,6 @@
 # OSX
 #
-*.DS_Store
+.DS_Store
 
 # Xcode
 #
@@ -30,7 +30,10 @@ build/
 local.properties
 *.iml
 *.hprof
-
+.cxx/
+*.dccache
+*.env**
+!*.env.sample
 # node.js
 #
 node_modules/
