@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@mipmap/actionsheet_bottom_pressed" android:state_pressed="true"/>
-    <item android:drawable="@mipmap/actionsheet_bottom_normal"/>
-
-</selector><!-- From: file:/Users/gohil/Documents/contentstack/MarketPlace/contentstack-react-news-app/android/app/build/intermediates/exploded-aar/com.baoyz.actionsheet/library/1.1.7/res/drawable/slt_as_ios7_other_bt_bottom.xml -->
