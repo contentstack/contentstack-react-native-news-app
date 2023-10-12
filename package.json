@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@react-navigation/drawer": "^6.5.1",
+    "@react-navigation/drawer": "^6.5.6",
     "@react-navigation/native": "^6.0.14",
     "@react-navigation/stack": "^6.3.7",
     "contentstack": "^3.15.4",
